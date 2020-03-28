@@ -12,7 +12,7 @@ public class User {
 	    w[na] = data;
 		 na = na+1;
 		 size +=1;
-		 return data + 55;
+		
 		 
 	}
 	public void show(){
